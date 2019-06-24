@@ -10,3 +10,7 @@ function happyHolidaysTo(person) {
 function happyHolidayTo(holiday, person) {
   `Happy ${holiday}, ${name}!`
 }
+
+function holidayCountdown(holiday, numberOfDays) {
+  `It's ${numberOfDays} days until ${holiday}!`
+}
